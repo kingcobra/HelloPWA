@@ -1,6 +1,10 @@
 {
     "name": "Hello World CVE",
     "short_name": "Hello CVE",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "description": "A hello world CVE",
     "icons": [{
         "src": "images/food-expire-128.png",
           "sizes": "128x128",
@@ -27,8 +31,5 @@
           "type": "image/png"
         }],
     "lang": "nl-BE",
-    "start_url": "/index.html",
-    "display": "standalone",
-    "background_color": "white",
     "theme_color": "white"
   }
